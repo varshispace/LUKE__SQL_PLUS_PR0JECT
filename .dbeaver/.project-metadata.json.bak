@@ -1,1 +1,0 @@
-{"resources":{"2_cohort_analysis.sql":{"default-datasource":"postgres-jdbc-1a0014e0fd7-32a1851097636675","default-catalog":"contoso_100k","default-schema":"public"},"Scripts/test.sql":{"default-schema":"public","default-datasource":"postgres-jdbc-1a0014e0fd7-32a1851097636675","default-catalog":"contoso_100k"}}}
